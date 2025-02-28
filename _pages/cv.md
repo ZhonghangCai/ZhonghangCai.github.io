@@ -11,11 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mathematical(Information and Computational Science), Sun Yat-sen University, Zhuhai, China, 2022-present
+* B.S. in Mathematics(Information and Computational Science), Sun Yat-sen University, Zhuhai, China, 2022-present
 
 Intern experience
 ======
   
+Programming Skills
+======
+
+Matlab, Python, C++
+
 Skills
 ======
 * Skill 1
@@ -23,26 +28,12 @@ Skills
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill
 
-Publications
+Awards
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+First-Class Scholarship of Sun Yat-sen University(2024)
+The first prize of national college students’ Mathematics Competition (2023、2024)
+
+
+
