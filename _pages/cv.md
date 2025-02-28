@@ -21,18 +21,9 @@ Programming Skills
 
 Matlab, Python, C++
 
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill
-
 Awards
 ======
-* First-Class Scholarship of Sun Yat-sen University(2024)
+* First-Class Scholarship of Sun Yat-sen University (2024)
 * The First Prize of National College Students’ Mathematics Competition (2023、2024)
 * The Second Prize of National College Students’ Mathematical Modeling Competition (2023)
 
