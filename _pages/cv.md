@@ -15,8 +15,8 @@ Education
 
 Intern experience
 ======
-
-
+*
+*
   
 Programming Skills
 ======
