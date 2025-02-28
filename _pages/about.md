@@ -1,10 +1,14 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Glad you're here!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hello, welcome to my personal site. 
+Welcome to my personal site. 
+
+CV
+
+I am Zhonghang Cai. I am currently studying toward the B.S. degree in Mathematics(Information and Computational Science) with the School of Mathematics (Zhuhai), Sun Yat-sen University, Zhuhai.
