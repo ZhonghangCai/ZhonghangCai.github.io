@@ -32,8 +32,9 @@ Skills
 
 Awards
 ======
-First-Class Scholarship of Sun Yat-sen University(2024)
-The first prize of national college students’ Mathematics Competition (2023、2024)
+* First-Class Scholarship of Sun Yat-sen University(2024)
+* The First Prize of National College Students’ Mathematics Competition (2023、2024)
+* The Second Prize of National College Students’ Mathematical Modeling Competition (2023)
 
 
 
